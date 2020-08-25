@@ -21,6 +21,7 @@ Este desafio consiste em pequenos exercícios de algoritmos. São eles:
 > npm run dev
 
 6. O comando acima vai gerar uma pasta chamada /dist com os arquivos em JavaScript. Em seguida, execute:
-npm run build
+
+> npm run build
 
 O comando acima executará os arquivos JavaScript da pasta /dist.
