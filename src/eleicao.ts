@@ -1,7 +1,7 @@
 import Eleicao from "./eleicao-class";
 
 export default () => {
-    const eleicao = new Eleicao(800, 150, 50);
+    const eleicao = new Eleicao();
     
     eleicao.percentualValidos();
     eleicao.percentualBrancos();

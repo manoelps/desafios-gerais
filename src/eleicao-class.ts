@@ -5,11 +5,11 @@ export default class Eleicao {
     private nulos: number;
 
     // Atribuindo os valores aos atributos
-    constructor(validos: number, brancos: number, nulos: number) {
-        this.validos = validos;
-        this.brancos = brancos;
-        this.nulos = nulos;
-        this.totalEleitores = validos + brancos + nulos;
+    constructor() {
+        this.validos = 800;
+        this.brancos = 150;
+        this.nulos = 50;
+        this.totalEleitores = 1000;
     }
 
     // Válidos
