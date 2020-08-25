@@ -9,19 +9,19 @@ Este desafio consiste em pequenos exercícios de algoritmos. São eles:
 
 **Como Instalar**
 
-1. Certifique-se que você tenha o Node.js instalado em sua máquina;
+1. Certifique-se que você tenha o [Node.js](https://nodejs.org/en/) instalado em sua máquina;
 2. Faça o clone do projeto;
 3. Aponte o terminal para o diretório deste repositório;
 4. Execute:
 
 > npm install
 
-5. Perceba que este projeto foi criado em TypeScript. Portanto, execute:
+5. Perceba que este projeto foi criado em **TypeScript**. Portanto, execute:
 
 > npm run dev
 
-6. O comando acima vai gerar uma pasta chamada /dist com os arquivos em JavaScript. Em seguida, execute:
+6. O comando acima vai gerar uma pasta chamada /dist com os arquivos em **JavaScript**. Em seguida, execute:
 
 > npm run build
 
-O comando acima executará os arquivos JavaScript da pasta /dist.
+O comando acima executará os arquivos **JavaScript** da pasta /dist.
